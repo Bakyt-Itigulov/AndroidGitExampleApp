@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
     String[] mNames = {
             "Бакыт",
             "Асан",
-            "Усон"
+            "Усон",
+            "Иван"
     };
 
     @Override

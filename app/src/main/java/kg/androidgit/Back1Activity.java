@@ -13,6 +13,5 @@ public class Back1Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         //Комментарий
-
     }
 }

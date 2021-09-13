@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
             "Рома",
             "Иван",
             "Мирлан",
-            "Пепе",
             "Лоло"
     };
 

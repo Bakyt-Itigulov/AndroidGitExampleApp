@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
             "Рома",
             "Иван",
             "Мирлан",
-            "Acaн"
+            "Усон"
     };
 
     @Override

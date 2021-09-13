@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             "Кундуз",
             "Мирлан",
             "Усон",
-            "Азамат"
+            "Не удаляйте пингвинов Лоло и Пепе"
     };
 
     @Override
